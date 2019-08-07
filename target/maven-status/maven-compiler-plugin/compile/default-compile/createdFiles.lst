@@ -1,0 +1,12 @@
+com\buckdrop\model\View$AuthorExtended.class
+com\buckdrop\model\Author.class
+com\buckdrop\App.class
+com\buckdrop\model\View.class
+com\buckdrop\model\GenericResponse.class
+com\buckdrop\jpa\EntityManagerUtil.class
+com\buckdrop\controller\AuthorController.class
+com\buckdrop\model\Book.class
+com\buckdrop\model\Genre.class
+com\buckdrop\model\View$Base.class
+com\buckdrop\model\View$BookExtended.class
+com\buckdrop\controller\BookController.class
